@@ -1,1 +1,14 @@
-theme: jekyll-theme-minimal
+title: Jagdeep Singh Cheema
+email: bani.cheema@gmail.com
+description: >
+  Jagdeep Singh Cheema is a well-known social worker, a philanthropist and has been an example setter throughout his career.
+baseurl: ""
+url: "https://jagdeepsinghcheema.com/"
+about: Social Worker / Philanthropist / Politician / Sports Person
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+footer:
+  location: House No. 64, Sector 9, Chandigarh 160009, India
